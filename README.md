@@ -21,3 +21,22 @@
 - 💻 I´m currently learning **Machine Learning, Ethical Hacking**
 - 🎙 Website [Portfolio | Juanes](https://jehp00.github.io/personalPortfolio/)
 
+<div align="left">
+  <h3>🛠 Languages and Tools</h3>
+  <div>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python"
+    width="40" height="40"/>&nbsp
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" title="Java" alt="Java"
+    width="40" height="40"/>&nbsp
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JavaScript"
+    width="40" height="40"/>&nbsp
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" title="Bash" alt="Bash"
+    width="40" height="40"/>&nbsp
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" title="React" alt="React"
+    width="40" height="40"/>&nbsp
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS"
+    width="40" height="40"/>&nbsp
+    <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" title="MySQL" alt="MySQL"
+    width="40" height="40"/>&nbsp
+  </div>
+</div>
