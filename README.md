@@ -47,5 +47,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jehp00&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
 ![Juanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jehp00&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehp00&hide_progress=true)](https://github.com/anuraghazr/Jehp00/github-readme-stats)
