@@ -1,4 +1,4 @@
-<div> id="header" align="center">
+<div id="header" align="center">
    <img src="https://media.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif" width="200"/>
    <h1 align="center">Hi, I'm Juanes 👋</h1>
    <h3 align="center">He’s a responsible, attentive, and
