@@ -49,4 +49,4 @@
 
 ![Juanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jehp00&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehp00&hide_progress=true)](https://github.com/anuraghazr/Jehp00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehp00&Demo=true)](https://github.com/anuraghazr/Jehp00/github-readme-stats)
