@@ -26,8 +26,6 @@
   <div>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python"
     width="40" height="40"/>&nbsp
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" title="Java" alt="Java"
-    width="40" height="40"/>&nbsp
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JavaScript"
     width="40" height="40"/>&nbsp
     <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" title="Bash" alt="Bash"
