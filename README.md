@@ -28,6 +28,8 @@
     width="40" height="40"/>&nbsp
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JavaScript"
     width="40" height="40"/>&nbsp
+     <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" title="C#" alt="C#"
+    width="40" height="40"/>&nbsp
     <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" title="Bash" alt="Bash"
     width="40" height="40"/>&nbsp
     <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" title="React" alt="React"
