@@ -16,37 +16,6 @@
  
 ### 📒About Me : 
 
-- 🔧 Ask me about **Pyhon, Java, Javascript**
+- 🔧 Ask me about **Pyhon, C#, Javascript, TypeScript**
 - 📈 How to reach me **jehp01104006@gmail.com**
-- 💻 I´m currently learning **Machine Learning, Ethical Hacking**
-- 🎙 Website [Portfolio | Juanes](https://jehp00.github.io/personalPortfolio/)
-
-<div align="left">
-  <h3>🛠 Languages and Tools</h3>
-  <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python"
-    width="40" height="40"/>&nbsp
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JavaScript"
-    width="40" height="40"/>&nbsp
-     <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" title="C#" alt="C#"
-    width="40" height="40"/>&nbsp
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" title="Bash" alt="Bash"
-    width="40" height="40"/>&nbsp
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" title="React" alt="React"
-    width="40" height="40"/>&nbsp
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS"
-    width="40" height="40"/>&nbsp
-    <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" title="MySQL" alt="MySQL"
-    width="40" height="40"/>&nbsp
-  </div>
-</div>
-
----
-
-### 📊 My Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jehp00&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Juanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jehp00&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehp00&Demo=true)](https://github.com/anuraghazr/Jehp00/github-readme-stats)
+- 💻 I´m currently learning **Machine Learning, Data Science Engineering**
